@@ -1,0 +1,15 @@
+﻿int SystemSystem;
+int @Int321;
+string Int32;
+int String;
+string 1String1;
+int ?mama;
+char[]ch,char1,@char;
+float [, ,][ ,, ][
+] z
+;object o;char?c;char
+?
+ch2;
+Int64 t1;
+System.Int64 t2;
+System . Int64 t3;
